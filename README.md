@@ -2,7 +2,7 @@
 
 
 ![考查课](https://img.shields.io/badge/%E8%80%83%E6%9F%A5%E8%AF%BE-green)
-![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-4-moccasin)
+![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2-moccasin)
 
 ![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
 ![随堂练习10%](https://img.shields.io/badge/随堂练习-10%25-wheat)
