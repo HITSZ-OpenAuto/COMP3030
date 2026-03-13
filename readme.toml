@@ -1,19 +1,19 @@
 course_name = "信息检索"
-repo_type = "normal"
 course_code = "COMP3030"
-
+repo_type = "normal"
 description = "本课程为信息检索（Information Retrieval），通常涉及人工智能与NLP方向的入门知识。"
 
-[[lecturers]]
+[lecturers]
+
+[[lecturers.items]]
 name = "陈清财"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = """
 课前会发 PPT，全英文 PPT，参考自几所国外高校，看起来还是有点费劲的，需要认真听讲。
 老师上课很认真，讲得还算清楚，认真听能够听明白。
 老师要求相对严格，但是很好说话，会听取同学们的意见。
 """
-
 
 [[sections]]
 title = "课程内容"
