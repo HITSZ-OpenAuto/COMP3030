@@ -1,0 +1,252 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1763814875,
+    "hash": "d5c3f23e0221c033ee533d190f60c3e7de9000f9"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1754240675,
+    "hash": "47031d6e85386b43279cc8b06a2407a8422da0c3"
+  },
+  "README.md": {
+    "size": 1961,
+    "time": 1791961575,
+    "hash": "abecb7a7695559de7c2bf5903f96f5db5bfc93dd"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1754240675,
+    "hash": "47031d6e85386b43279cc8b06a2407a8422da0c3"
+  },
+  "assignments/2020春/IR-HW01.pptx": {
+    "size": 49960,
+    "time": 1756867896,
+    "hash": "4f78118ad9b620c67a5d30208045ae990703a215"
+  },
+  "assignments/2020春/IR-HW02.pptx": {
+    "size": 99549,
+    "time": 1756867896,
+    "hash": "4f78118ad9b620c67a5d30208045ae990703a215"
+  },
+  "assignments/2020春/IR-HW03.pptx": {
+    "size": 55757,
+    "time": 1756867896,
+    "hash": "4f78118ad9b620c67a5d30208045ae990703a215"
+  },
+  "assignments/2020春/IR-HW04.pptx": {
+    "size": 43937,
+    "time": 1756867896,
+    "hash": "4f78118ad9b620c67a5d30208045ae990703a215"
+  },
+  "assignments/2020春/IR-HW05.pptx": {
+    "size": 56057,
+    "time": 1756867896,
+    "hash": "4f78118ad9b620c67a5d30208045ae990703a215"
+  },
+  "assignments/2020春/IR-HW06.pptx": {
+    "size": 59997,
+    "time": 1756867896,
+    "hash": "4f78118ad9b620c67a5d30208045ae990703a215"
+  },
+  "assignments/2020春/IR-HW07.pptx": {
+    "size": 53149,
+    "time": 1756867896,
+    "hash": "4f78118ad9b620c67a5d30208045ae990703a215"
+  },
+  "assignments/2020春/IR-HW08.pptx": {
+    "size": 54331,
+    "time": 1756867896,
+    "hash": "4f78118ad9b620c67a5d30208045ae990703a215"
+  },
+  "assignments/2020春/IR-HW09.pptx": {
+    "size": 51901,
+    "time": 1756867896,
+    "hash": "4f78118ad9b620c67a5d30208045ae990703a215"
+  },
+  "assignments/2020春/IRLbot Scaling to 6 Billion Pages and Beyond.pdf": {
+    "size": 556230,
+    "time": 1756867896,
+    "hash": "4f78118ad9b620c67a5d30208045ae990703a215"
+  },
+  "assignments/2020春/SVD_process.ipynb": {
+    "size": 15778,
+    "time": 1756867896,
+    "hash": "4f78118ad9b620c67a5d30208045ae990703a215"
+  },
+  "assignments/2020春/Topic-Sensitive PageRank.pdf": {
+    "size": 272514,
+    "time": 1756867896,
+    "hash": "4f78118ad9b620c67a5d30208045ae990703a215"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1754240675,
+    "hash": "47031d6e85386b43279cc8b06a2407a8422da0c3"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1754240675,
+    "hash": "47031d6e85386b43279cc8b06a2407a8422da0c3"
+  },
+  "notes/2020_CH/IR01-课堂讨论.docx": {
+    "size": 15257,
+    "time": 1756867896,
+    "hash": "4f78118ad9b620c67a5d30208045ae990703a215"
+  },
+  "notes/2020_CH/IR02-课堂讨论.docx": {
+    "size": 227932,
+    "time": 1756867896,
+    "hash": "4f78118ad9b620c67a5d30208045ae990703a215"
+  },
+  "notes/2020_CH/IR03-课堂讨论.docx": {
+    "size": 234073,
+    "time": 1756867896,
+    "hash": "4f78118ad9b620c67a5d30208045ae990703a215"
+  },
+  "notes/2020_CH/IR04-课堂讨论.docx": {
+    "size": 16266,
+    "time": 1756867896,
+    "hash": "4f78118ad9b620c67a5d30208045ae990703a215"
+  },
+  "notes/2020_CH/IR05-课堂讨论.docx": {
+    "size": 17950,
+    "time": 1756867896,
+    "hash": "4f78118ad9b620c67a5d30208045ae990703a215"
+  },
+  "notes/2020_CH/IR06-课堂讨论.docx": {
+    "size": 14807,
+    "time": 1756867896,
+    "hash": "4f78118ad9b620c67a5d30208045ae990703a215"
+  },
+  "notes/2020_CH/IR07-课堂讨论.docx": {
+    "size": 53221,
+    "time": 1756867896,
+    "hash": "4f78118ad9b620c67a5d30208045ae990703a215"
+  },
+  "notes/2020_CH/IR08-课堂讨论.docx": {
+    "size": 47550,
+    "time": 1756867896,
+    "hash": "4f78118ad9b620c67a5d30208045ae990703a215"
+  },
+  "notes/2021_hewei/readme.md": {
+    "size": 1505,
+    "time": 1756867896,
+    "hash": "4f78118ad9b620c67a5d30208045ae990703a215"
+  },
+  "projects/.gitkeep": {
+    "size": 0,
+    "time": 1756867896,
+    "hash": "4f78118ad9b620c67a5d30208045ae990703a215"
+  },
+  "projects/1_Domain Specific Search Engine.ppt": {
+    "size": 64512,
+    "time": 1756867896,
+    "hash": "4f78118ad9b620c67a5d30208045ae990703a215"
+  },
+  "projects/IR-project-开发文档.pdf": {
+    "size": 5672889,
+    "time": 1756867896,
+    "hash": "4f78118ad9b620c67a5d30208045ae990703a215"
+  },
+  "projects/一种实现本地搜索引擎的可行性方案.url": {
+    "size": 146,
+    "time": 1756867896,
+    "hash": "4f78118ad9b620c67a5d30208045ae990703a215"
+  },
+  "readme.toml": {
+    "size": 1861,
+    "time": 1785345777,
+    "hash": "16fcdcd5ef813a5b8c2b6e1c9e31fdbe331406d3"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1754240675,
+    "hash": "47031d6e85386b43279cc8b06a2407a8422da0c3"
+  },
+  "slides/2020_QingcaiChen/Lecture 1 Overview.pdf": {
+    "size": 3790464,
+    "time": 1756867896,
+    "hash": "4f78118ad9b620c67a5d30208045ae990703a215"
+  },
+  "slides/2020_QingcaiChen/Lecture 11 QuestionAnswering.pdf": {
+    "size": 1769667,
+    "time": 1756867896,
+    "hash": "4f78118ad9b620c67a5d30208045ae990703a215"
+  },
+  "slides/2020_QingcaiChen/Lecture 13 news filtering.pdf": {
+    "size": 1591526,
+    "time": 1756867896,
+    "hash": "4f78118ad9b620c67a5d30208045ae990703a215"
+  },
+  "slides/2020_QingcaiChen/Lecture 2 retrieval model-I.pdf": {
+    "size": 454041,
+    "time": 1756867896,
+    "hash": "4f78118ad9b620c67a5d30208045ae990703a215"
+  },
+  "slides/2020_QingcaiChen/Lecture 3 retrieval model-II.pdf": {
+    "size": 1077433,
+    "time": 1756867896,
+    "hash": "4f78118ad9b620c67a5d30208045ae990703a215"
+  },
+  "slides/2020_QingcaiChen/Lecture 4-Advanced Retrieval - Probabilistic.pdf": {
+    "size": 472859,
+    "time": 1756867896,
+    "hash": "4f78118ad9b620c67a5d30208045ae990703a215"
+  },
+  "slides/2020_QingcaiChen/Lecture 5 Evaluation.pdf": {
+    "size": 569319,
+    "time": 1756867896,
+    "hash": "4f78118ad9b620c67a5d30208045ae990703a215"
+  },
+  "slides/2020_QingcaiChen/Lecture 6 Web Search-17.pdf": {
+    "size": 195336,
+    "time": 1756867896,
+    "hash": "4f78118ad9b620c67a5d30208045ae990703a215"
+  },
+  "slides/2020_QingcaiChen/Lecture 6 Web Search.pdf": {
+    "size": 1428459,
+    "time": 1756867896,
+    "hash": "4f78118ad9b620c67a5d30208045ae990703a215"
+  },
+  "slides/2020_QingcaiChen/Lecture 7 Index.pdf": {
+    "size": 728822,
+    "time": 1756867896,
+    "hash": "4f78118ad9b620c67a5d30208045ae990703a215"
+  },
+  "slides/2020_QingcaiChen/Lecture 8 Page Rank-12.pdf": {
+    "size": 305418,
+    "time": 1756867896,
+    "hash": "4f78118ad9b620c67a5d30208045ae990703a215"
+  },
+  "slides/2020_QingcaiChen/Lecture 8 Page Rank-17.pdf": {
+    "size": 195336,
+    "time": 1756867896,
+    "hash": "4f78118ad9b620c67a5d30208045ae990703a215"
+  },
+  "slides/2020_QingcaiChen/Lecture 8 Page Rank.pdf": {
+    "size": 940982,
+    "time": 1756867896,
+    "hash": "4f78118ad9b620c67a5d30208045ae990703a215"
+  },
+  "slides/2020_QingcaiChen/Lecture 9 query relevace feedback-20.pdf": {
+    "size": 115386,
+    "time": 1756867896,
+    "hash": "4f78118ad9b620c67a5d30208045ae990703a215"
+  },
+  "slides/2020_QingcaiChen/Lecture 9 query relevace feedback-22.pdf": {
+    "size": 220799,
+    "time": 1756867896,
+    "hash": "4f78118ad9b620c67a5d30208045ae990703a215"
+  },
+  "slides/2020_QingcaiChen/Lecture 9 query relevace feedback.pdf": {
+    "size": 468030,
+    "time": 1756867896,
+    "hash": "4f78118ad9b620c67a5d30208045ae990703a215"
+  },
+  "slides/2020_QingcaiChen/lecture 12 RecommenderSystem.pdf": {
+    "size": 2079745,
+    "time": 1756867896,
+    "hash": "4f78118ad9b620c67a5d30208045ae990703a215"
+  }
+}
