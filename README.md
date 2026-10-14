@@ -1,11 +1,5 @@
 # COMP3030 - 信息检索
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![随堂练习10%](https://img.shields.io/badge/随堂练习-10%25-wheat)
-![作业40%](https://img.shields.io/badge/作业-40%25-wheat)
-![大项目50%](https://img.shields.io/badge/大项目-50%25-wheat)
 
 本课程为信息检索（Information Retrieval），通常涉及人工智能与NLP方向的入门知识。
 
